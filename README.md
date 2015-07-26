@@ -1,6 +1,11 @@
 # exdata-CP2
 Coursera Exploratory Analysis Course Project 2
 
+# IMPORTANT
+
+Please download the dataset and place it in ../data/exdata/ or change the datadirectory configuration on
+the script.
+
 
 # National Emissions Inventory
 
